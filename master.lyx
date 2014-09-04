@@ -82,7 +82,7 @@ Eventuelt under titel
 status open
 
 \begin_layout Plain Layout
-Hvis der ikke er undertitel slettes den blot
+Hvis der ikke er undertitel slettes linjen blot
 \end_layout
 
 \end_inset
@@ -237,15 +237,18 @@ LatexCommand tableofcontents
 
 \end_layout
 
-\begin_layout Chapter
-Indledning
-\begin_inset CommandInset label
-LatexCommand label
-name "chap:Indledning"
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "kapitel01.lyx"
 
 \end_inset
 
 
+\end_layout
+
+\begin_layout Chapter
+Indledning
 \end_layout
 
 \begin_layout Standard
