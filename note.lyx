@@ -6,7 +6,8 @@
 \begin_preamble
 \addbibresource{~/Git/ERMreport/lyx/erm.bib}
 \end_preamble
-\use_default_options true
+\options 11pt,a4paper,biber,note
+\use_default_options false
 \maintain_unincluded_children false
 \language danish
 \language_package default
@@ -72,6 +73,14 @@
 
 \begin_body
 
+\begin_layout Author
+Harald Blåtand
+\end_layout
+
+\begin_layout Title
+En note
+\end_layout
+
 \begin_layout Chapter
 Indledning
 \begin_inset CommandInset label
@@ -92,6 +101,14 @@ key "Bringhurst2004,Chicago2010,Langston2004,Wilson2009,Wulff2006"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Chapter
+Noget mere
+\end_layout
+
+\begin_layout Standard
+dgdwgw
 \end_layout
 
 \begin_layout Standard

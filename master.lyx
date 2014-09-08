@@ -166,9 +166,6 @@ Alle forfattere indsættes på denne måde
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status open
 
@@ -182,12 +179,8 @@ Fødselsdag indsættes fra menuen Insert > Birthday
 \end_layout
 
 \begin_layout Supervisor
-Lektor 
-\series bold
-Lars
-\series default
- Ravn-Jonsen, Syddansk Universitet, Institut for Miljø- og Erhvevsøkonomi
- 
+Lektor Lars Ravn-Jonsen, Syddansk Universitet, Institut for Miljø- og Erhvevsøko
+nomi 
 \begin_inset Note Note
 status open
 
@@ -295,7 +288,7 @@ Lyx skal kunne finde *bib filen det gøres ved meuen Insert > List / TOC
 \end_layout
 
 \begin_layout Enumerate
-Der hvor bibliografien ønskes skal der være indsættes fra meneu Bibliograpy
+Der hvor bibliografien ønskes skal der være indsættes fra meneu Bibliography
 \end_layout
 
 \begin_layout Standard
