@@ -5,6 +5,11 @@
 \textclass ermreport
 \begin_preamble
 \addbibresource{~/Git/ERMreportSkabelon/litteratur.bib}
+%
+%% If this is not working try this
+%% Remove the % nad palce a % in front of above
+%
+%\addbibresource{\string~/Git/ERMreportSkabelon/litteratur.bib}
 \end_preamble
 \use_default_options true
 \maintain_unincluded_children false
