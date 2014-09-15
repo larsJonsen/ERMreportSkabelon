@@ -101,8 +101,60 @@ En sektion
 
 \begin_layout Standard
 Her skrives og skrives.
- Her skrives og skrives.
+ Her skrives og skrives, se næbdyr 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "fig:Næbdyr"
+
+\end_inset
+
+.
  Her skrives og skrives
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename fig/platypus.pdf
+	width 8cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Her er et næbdyr som eksempel på en figur.
+ 
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Næbdyr"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
