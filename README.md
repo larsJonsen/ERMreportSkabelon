@@ -28,4 +28,39 @@ Det er hensigtsmæssigt at holde bunden af mappe systemt ren, så det kun indeho
 den hedder i ERMreportSkabelon
 ```
 litteratur.bib 
+
+I gruppernes 
+
 ```
+GO1.bib
+G02.bib
+...
+```
+
+
+```
+
+### To make the bib database accesibly for all programs
+
+#### On Mac
+Open a in a termmianl and run:
+
+```sh
+mkdir ~/Library/texmf
+mkdir ~/Library/texmf/bibtex
+mkdir ~/Library/texmf/bibtex/bib
+ln -s <path>/litteratur.bib ~/Library/texmf/bibtex/bib/litteratur.bib
+```
+
+#### On Windows
+
+Åben en administarter comand promt: Tryk på start knappen og skriv _cmd_ og tryk __shift-crtl-enter__ for at starte en administrator terminal
+
+```bat
+mkdir %AppData%\MikTex\2.9\bibtex
+mkdir %AppData%\MikTex\2.9\bibtex\bib
+mklink %AppData%\MikTex\2.9\bibtex\bib\litteratur.bib <path>\litteratur.bib
+initexmf -u
+```
+
+
