@@ -26,8 +26,10 @@ Det er hensigtsmæssigt at holde bunden af mappe systemt ren, så det kun indeho
 ## Litteratur Database 
 
 den hedder i ERMreportSkabelon
+
 ```
 litteratur.bib 
+```
 
 I gruppernes 
 
@@ -35,9 +37,6 @@ I gruppernes
 GO1.bib
 G02.bib
 ...
-```
-
-
 ```
 
 ### To make the bib database accesibly for all programs
